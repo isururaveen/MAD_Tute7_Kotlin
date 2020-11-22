@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD_Tut7_Kotlin</string>
+    <string name="birth">Enter your Year of Birth :</string>
+    <string name="submit">Submit</string>
+    <string name="age">Age :</string>
+    <string name="on">onSubmit</string>
+</resources>
